@@ -14,5 +14,17 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
-  }
+  },
+  "dependencies": {
+    "graphql": "^16.5.0",
+    "install": "^0.13.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krosario314/bookSearch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/krosario314/bookSearch/issues"
+  },
+  "homepage": "https://github.com/krosario314/bookSearch#readme"
 }
